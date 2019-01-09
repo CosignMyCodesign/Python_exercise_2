@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "C:\\Users\\Dillon\\vscode_bats\\python3.bat",
+  "python.linting.pylintPath": "C:\\Users\\Dillon\\vscode_bats\\pylint.bat",
+  "python.workspaceSymbols.ctagsPath": "c:\\Users\\Dillon\\vscode_bats\\ctags.bat"
+}
